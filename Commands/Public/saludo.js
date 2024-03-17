@@ -1,4 +1,4 @@
-const {SlashCommandBuilder, EmbedBuilder, Client, ChatInputCommandInteraction} = require("discord.js");
+const {SlashCommandBuilder, EmbedBuilder, Client, ChatInputCommandInteraction, InteractionResponse} = require("discord.js");
 module.exports = {
     data: new SlashCommandBuilder()
     .setName('saludo')
@@ -9,6 +9,10 @@ module.exports = {
      * @param {Client} client 
      */
     async execute(interaction, client){
-        return interaction.reply({content:`¿Hola ${interaction.user}, sabes donde esta Sam?`, ephemeral:true})
+        if(interaction.user.id === '691776765923688519'){
+            return interaction.reply({content:`Sam hasta que te encontre, ¿Quieres salir un rato conmigo?`,ephemeral:false});
+        } else {
+            return interaction.reply({content:`Hola ${interaction.user}, sabes donde está Sam?`,ephemeral:false});
+        }
     }
 };
