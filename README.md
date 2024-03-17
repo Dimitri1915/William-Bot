@@ -1,6 +1,4 @@
-# Bot en Discord.js V14
-Este sera un proyecto dedicado a lo que sera un Bot en discord.js en la version 14 tal vez no sea muy actualizable.
-- Contara con un servicio de automoderacion.
-- Servicios de diversion o roleo.
-
-Entre otras cosas proximamente
+# William Bot
+## Esta prohibido su modificación
+### Contacto:
+> Quieres mandarme un mensaje: [Kane Discord](https://https://discordapp.com/users/975219569025245224)
