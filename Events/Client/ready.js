@@ -19,6 +19,6 @@ module.exports = {
         }).catch((e) => {
             console.log(`No se pudo contectar a la base de datos ${e}`.red);
         });
-        console.log(`El ${client.user.username} esta online!`);
+        console.log(`${client.user.username} esta online!`.cyan);
     }
 };
