@@ -2,7 +2,7 @@
 
 - Este Bot esta hecho en la versión 14 de Discord.js.
 - El propósito de William es **la moderación.**
-- Es un **Bot Furry**, ****sino te gusta esta temática, no tires hate y mejor busca otro código.
+- Es un **Bot Furry**, sino te gusta esta temática, no tires hate y mejor busca otro código.
 
 ## Esta prohibido su clonación.
 
