@@ -1,8 +1,15 @@
-# William Bot
-Este bot esta hecho en Discord.js v14.
-__Su proposito es la moderación.__
-Es un bot **furry**, si no te gusta el fandom, ~~abstenerse de hate~~.
-## Esta prohibido su modificación
-> La modificación de este bot estan prohibidas. 
+# William Bot.
+
+- Este Bot esta hecho en la versión 14 de Discord.js.
+- El propósito de William es **la moderación.**
+- Es un **Bot Furry**, ****sino te gusta esta temática, no tires hate y mejor busca otro código.
+
+## Esta prohibido su clonación.
+
+> Si quieres modificar el Bot agregando tu código necesitas pedirme permiso, en caso de que encuentre Bots con códigos similares me veré en la necesidad de hacer privado el commit.
+> 
+
 ### Contacto:
-> Quieres mandarme un mensaje: [Kane Discord](https://discordapp.com/users/975219569025245224)
+
+> Si quieres contactarme en por Discord: [Kane](https://discordapp.com/users/975219569025245224)
+>
