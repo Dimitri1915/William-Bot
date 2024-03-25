@@ -11,5 +11,5 @@
 
 ### Contacto:
 
-> Si quieres contactarme en por Discord: [Kane](https://discordapp.com/users/975219569025245224)
+> Si quieres contactarme por Discord: [Kane](https://discordapp.com/users/975219569025245224)
 >
