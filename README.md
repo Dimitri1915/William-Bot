@@ -6,7 +6,7 @@
 
 ## Esta prohibido su clonación.
 
-> Si quieres modificar el Bot agregando tu código necesitas pedirme permiso, en caso de que encuentre Bots con códigos similares me veré en la necesidad de hacer privado el commit.
+> Si quieres modificar el Bot agregando tu código necesitas pedirme permiso, en caso de que encuentre Bots con códigos similares me veré en la necesidad de hacer privado el repositorio.
 > 
 
 ### Contacto:
