@@ -21,7 +21,7 @@ module.exports = {
         try {
             await interaction.guild.members.unban(userId)
             unbanEmbed.setTitle('✅ | Usuario libre de ban correctamente')
-            .setDescription(`<@${userId}> se libero del ban.\nLiberado del Ban por: ${interaction.user.tag}`)
+            .setDescription(`<@${userId}> se libero del ban.\nLiberado del Ban por: ${interaction.user}`)
             .setColor('Green')
             .setTimestamp()
 
